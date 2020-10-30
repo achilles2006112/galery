@@ -20,6 +20,7 @@ window.addEventListener("load",function(){
 	});
 	
 	btnb.addEventListener("click",function(){
+		//ssss//
 		counter--;
 		if(counter<1){
 			counter = 4;
